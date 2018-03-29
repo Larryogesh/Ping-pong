@@ -1,0 +1,60 @@
+body {
+  background-image: url('../img/geometricartwallpaper.jpg');
+}
+
+h1 {
+  color: lightblue;
+  font-style: italic;
+}
+
+h2 {
+  color: lightblue;
+  font-style: normal;
+}
+
+h3 {
+  color: lightblue;
+  font-style: normal;
+}
+
+h4 {
+  color: green;
+  font-style: normal;
+}
+
+h5 {
+  color: lightblue;
+  font-style: normal;
+}
+
+h6 {
+  color: lightblue;
+  font-style: normal;
+}
+
+ol {
+  color: lightblue;
+  font-style: normal;
+}
+
+p {
+  color: lightblue;
+  font-style: normal;
+}
+
+.sidebar {
+  float: left;
+  width: 30%;
+  height: 100%;
+  position: absolute;
+}
+
+.normal {
+  color: lightblue;
+  font-style: normal;
+}
+
+#pic {
+  height: 50%;
+  width: auto;
+}
